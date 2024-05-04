@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react'
+import { ReactNode } from 'react'
 import styles from './Alert.module.css'
 
 const Alert = ({children}:{children:ReactNode}) => {
